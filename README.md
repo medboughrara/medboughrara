@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/medboughrara?style=for-the-badge&logo=github&color=4338ca)](https://github.com/medboughrara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mouhamed%20Boughrara-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/medboughrara)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:126203576+medboughrara@users.noreply.github.com)
-[![Hackatime](https://img.shields.io/badge/Hackatime-Dashboard-EC3750?style=for-the-badge&logo=hackclub)](https://hackatime.hackclub.com/)
+[![Hackatime Dashboard](https://img.shields.io/badge/Hackatime-Live%20Dashboard-EC3750?style=for-the-badge&logo=hackclub)](https://hackatime.hackclub.com/)
 
 </div>
 
@@ -24,19 +24,29 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 
 ---
 
-### 📊 Project Timeline & Coding Activity
+### 📊 Project Timeline & Interactive Coding Activity
 
 <div align="center">
 
 [![Hackatime Project Timeline](assets/project_timeline.png)](https://hackatime.hackclub.com/)
 
+*👆 **Click the timeline image above to open your live interactive Hackatime Dashboard!***
+
 <br/>
 
-![Public Repositories](https://img.shields.io/badge/Public%20Repositories-50%2B-4338ca?style=for-the-badge&logo=github)
-![Primary Focus](https://img.shields.io/badge/Domain-AI%20%26%20Robotics%20%2F%20Embedded-1e1b4b?style=for-the-badge&logo=microchip)
-![Status](https://img.shields.io/badge/Status-Building%20@%20Qomics-059669?style=for-the-badge&logo=rocket)
-
 </div>
+
+<details open>
+<summary><b>🔍 Interactive Project Time Breakdown (Click to expand / collapse)</b></summary>
+<br/>
+
+| Project | Role & Focus Area | Recent Logged Time |
+| :--- | :--- | :--- |
+| 🔬 **SmartCytoScan** | Cytology AI, Motor Stage Control & FastAPI Core | **~7h 07m / wk** |
+| ⚡ **smart_scan** | Autofocus Hill-Climbing & Motor Calibration | **~7h 21m / wk** |
+| 🤖 **micro_gpu** | Edge AI GPU Acceleration & Hardware Benchmarks | **~11m / wk** |
+
+</details>
 
 ---
 
