@@ -1,8 +1,8 @@
-# Hi, I'm Mouhamed Boughrara 👋 
-
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f172a,70:1e1b4b,100:4338ca&height=220&section=header&text=Mouhamed%20Boughrara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Tech%20Lead%20@%20Qomics%20Startup%20|%20AI%20%26%20Advanced%20Robotics%20|%20Embedded%20Systems&descFontSize=16&descAlignY=62&descAlign=50)
+# Hi, I'm Mouhamed Boughrara 👋
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vcenter=true&width=650&height=50&lines=Tech+Lead+%40+Qomics+Startup;AI+%26+Advanced+Robotics+Engineer;Embedded+Hardware+%26+PCB+Designer;Hardware-Software+Co-Design)
 
 [![GitHub followers](https://img.shields.io/github/followers/medboughrara?style=for-the-badge&logo=github&color=4338ca)](https://github.com/medboughrara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mouhamed%20Boughrara-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/medboughrara)
@@ -51,7 +51,7 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 
 ---
 
-### ⏱️ Automated WakaTime Coding Time
+### ⏱️ Automated WakaTime Time Tracking
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
