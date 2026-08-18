@@ -23,20 +23,17 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 
 ---
 
-### 📈 GitHub Activity & Coding Charts
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=medboughrara&theme=tokyonight&area=true&hide_border=true)
 
-<br/><br/>
+<br/>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=medboughrara&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=medboughrara&layout=compact&theme=tokyonight&hide_border=true)
-
-<br/><br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medboughrara&theme=tokyonight&hide_border=true)
+![Public Repositories](https://img.shields.io/badge/Public%20Repositories-50%2B-4338ca?style=for-the-badge&logo=github)
+![Primary Focus](https://img.shields.io/badge/Domain-AI%20%26%20Robotics%20%2F%20Embedded-1e1b4b?style=for-the-badge&logo=microchip)
+![Status](https://img.shields.io/badge/Status-Building%20@%20Qomics-059669?style=for-the-badge&logo=rocket)
 
 </div>
 
@@ -54,7 +51,7 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 
 ---
 
-### ⏱️ Automated WakaTime Time Tracking
+### ⏱️ Automated WakaTime Coding Time
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
