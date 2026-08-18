@@ -6,8 +6,7 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
+permissions: write-all
 
 jobs:
   update-readme:
@@ -20,7 +19,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
-          SHOW_TIME: "True"
-          SHOW_TOTAL: "True"
-          SHOW_TITLE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
           SECTION_NAME: "waka"
