@@ -12,45 +12,18 @@
 
 ---
 
-### 🧬 System Architecture: Hardware-Software Co-Design
+### 🚀 About Me
 
-```mermaid
-flowchart TD
-    subgraph HARDWARE_LAYER ["🔌 Hardware & Embedded Systems"]
-        ESP32["ESP32 / Microcontrollers"]
-        MKS["MKS Stepper Motor Drivers\n(Sub-micron X/Y/Z Stage)"]
-        CAM["Microscope CMOS Camera\n(High-Speed Stream)"]
-        PCB["Custom PCB Circuitry\n(KiCad / Altium)"]
-    end
+I specialize in **hardware-software co-design**, bridging the gap between embedded electronics and intelligent software systems. My work centers on high-precision embedded hardware, printed circuit board (**PCB**) design, control loops, and applying **computer vision** to medical robotics and automation.
 
-    subgraph EDGE_CONTROL ["⚡ Low-Level Control & Firmware"]
-        UART["RS485 / UART Protocol Engine"]
-        FIRMWARE["C/C++ Motion Controller\n(S-Curve Profile & Safety Limits)"]
-    end
-
-    subgraph AI_PIPELINE ["🤖 Computer Vision & AI Core"]
-        AF["Z-Autofocus Hill-Climbing Algorithm\n(Tenengrad / Laplacian Variance)"]
-        YOLO["YOLO Cell Detection & Segmentation\n(PyTorch / TensorRT / ONNX)"]
-    end
-
-    subgraph SOFTWARE_APP ["💻 Web Application & Cloud"]
-        FASTAPI["FastAPI Async Backend\n(Python 3.12 / Redis / Postgres)"]
-        UI["React & Tailwind Dashboard\n(Real-Time Cytology Visualizer)"]
-    end
-
-    ESP32 <-->|UART / RS485| MKS
-    PCB --> ESP32
-    CAM -->|Raw Video Stream| AF
-    AF -->|Focus Metric Feedback| FIRMWARE
-    FIRMWARE -->|Step/Dir Commands| ESP32
-    CAM --> YOLO
-    YOLO --> FASTAPI
-    FASTAPI <--> UI
-```
+- 🔭 **Current Focus:** Leading technical development at **Qomics Startup**, building **SmartCytoScan / QVision**—an AI-driven automated cytology microscope system.
+- ⚡ **Core Strengths:** Sub-micron precision motor control, real-time image processing pipelines, microcontrollers, and hardware acceleration.
+- 🌱 **Learning & Researching:** Edge AI acceleration (TensorRT/ONNX), Isaac Sim robotics integration, and advanced PCB multi-layer layout optimization.
+- 💬 **Ask me about:** ESP32/STM32 firmware, PCB design (KiCad/Altium), YOLO computer vision models, RS485/UART protocols, and Python/C++ integration.
 
 ---
 
-### 📈 GitHub Activity Graph & Analytics
+### 📈 GitHub Activity & Coding Charts
 
 <div align="center">
 
@@ -70,34 +43,6 @@ flowchart TD
 
 ---
 
-### 🔄 Control Loop: Real-Time Autofocus & Vision Pipeline
-
-```mermaid
-sequenceDiagram
-    autonumber
-    participant UI as React Frontend
-    participant API as FastAPI Backend
-    participant CV as OpenCV / YOLO Engine
-    participant MCU as ESP32 Firmware
-    participant Stage as Z-Axis Motor Stage
-
-    UI->>API: Start Slide Scan Request
-    API->>MCU: Move Stage to (X, Y) Position
-    MCU->>Stage: Execute Stepper Motor Pulses
-    Stage-->>MCU: Arrived at Coordinates
-
-    loop Autofocus Hill-Climbing Loop
-        MCU->>Stage: Step Z Axis (Delta Z)
-        CV->>CV: Capture Frame & Compute Focus Metric
-    end
-
-    CV-->>API: Optimal Z-Plane Located
-    API->>CV: Run YOLO Cell Segmentation
-    CV-->>UI: Stream Annotated High-Res Cytology Frame
-```
-
----
-
 ### 🛠️ Tech Stack & Ecosystem
 
 | Category | Technologies & Tools |
@@ -110,7 +55,7 @@ sequenceDiagram
 
 ---
 
-### ⏱️ Automated WakaTime Stats
+### ⏱️ Automated WakaTime Time Tracking
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -119,32 +64,22 @@ sequenceDiagram
 
 ### 🌟 Featured Projects
 
-<details>
-<summary><b>🔬 SmartCytoScan / QVision System (Click to expand)</b></summary>
-<br/>
+- 🔬 **[SmartCytoScan / QVision System](https://github.com/medboughrara)**
+  *AI-Powered Automated Cytology Microscope & Scanner*
+  Integrates high-precision stepper stage motion control (sub-micron Z-autofocus hill-climbing), ESP32 hardware interfaces, real-time slide cell detection using YOLO, and asynchronous FastAPI/React infrastructure.
 
-AI-Powered Automated Cytology Microscope & Scanner. Integrates high-precision stepper stage motion control, sub-micron Z-autofocus hill-climbing, ESP32 hardware interfaces, real-time slide cell detection using YOLO, and asynchronous FastAPI backend.
+- ⚡ **High-Precision Motor Driver & Firmware Controller**
+  *Custom RS485/UART Motion Control Engine*
+  Embedded C++ and Python communication stack for MKS/TMC motor drivers, implementing fast S-curve velocity profiling, limit switch safety bounds, and emergency stopping mechanisms.
 
-```mermaid
-graph LR
-    A[Cytology Slide] --> B[High-Resolution Camera]
-    B --> C[Focus Evaluation Engine]
-    C --> D[YOLO Cell Segmentation]
-    D --> E[Diagnostic Report Generation]
-```
-</details>
-
-<details>
-<summary><b>⚡ High-Precision RS485 Motor Controller Firmware (Click to expand)</b></summary>
-<br/>
-
-Embedded C++ and Python communication stack for MKS/TMC motor drivers, implementing fast S-curve velocity profiling, limit switch safety bounds, and emergency stopping mechanisms over RS485/UART protocols.
-</details>
+- 🤖 **Microscopy Computer Vision Pipeline**
+  *Deep Learning Cell Segmentation & Auto-exposure*
+  Computer vision pipeline for automated slide tissue detection, focus metric evaluation (Laplacian / Tenengrad variance), and background illumination correction.
 
 ---
 
 <div align="center">
 
-**[github.com/medboughrara](https://github.com/medboughrara)** • *Hardware-Software Co-Design & Robotics AI*
+*Designed & Built by **Mouhamed Boughrara** • Powered by GitHub Actions & WakaTime*
 
 </div>
