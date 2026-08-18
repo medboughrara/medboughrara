@@ -7,6 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/medboughrara?style=for-the-badge&logo=github&color=4338ca)](https://github.com/medboughrara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mouhamed%20Boughrara-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/medboughrara)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:126203576+medboughrara@users.noreply.github.com)
+[![Hackatime](https://img.shields.io/badge/Hackatime-Dashboard-EC3750?style=for-the-badge&logo=hackclub)](https://hackatime.hackclub.com/)
 
 </div>
 
@@ -23,11 +24,11 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Project Timeline & Coding Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=medboughrara&theme=tokyonight&area=true&hide_border=true)
+[![Hackatime Project Timeline](assets/project_timeline.png)](https://hackatime.hackclub.com/)
 
 <br/>
 
@@ -36,6 +37,13 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 ![Status](https://img.shields.io/badge/Status-Building%20@%20Qomics-059669?style=for-the-badge&logo=rocket)
 
 </div>
+
+---
+
+### ⏱️ Automated WakaTime / Hackatime Time Tracking
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -48,13 +56,6 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 | **PCB Design & CAD** | ![KiCad](https://img.shields.io/badge/KiCad-314185?style=flat-square&logo=kicad&logoColor=white) ![Altium](https://img.shields.io/badge/Altium-A20000?style=flat-square&logo=altiumdesigner&logoColor=white) ![EasyEDA](https://img.shields.io/badge/EasyEDA-0066FF?style=flat-square&logo=easyeda&logoColor=white) ![EAGLE](https://img.shields.io/badge/EAGLE-005B94?style=flat-square&logo=autodesk&logoColor=white) |
 | **AI, Computer Vision & Sim** | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NVIDIA Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Webots](https://img.shields.io/badge/Webots-FF0000?style=flat-square&logo=cyberbotics&logoColor=white) |
 | **Backend & Cloud** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-
----
-
-### ⏱️ Automated WakaTime Time Tracking
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -76,6 +77,6 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 
 <div align="center">
 
-*Designed & Built by **Mouhamed Boughrara** • Powered by GitHub Actions & WakaTime*
+*Designed & Built by **Mouhamed Boughrara** • Powered by GitHub Actions, WakaTime & Hackatime*
 
 </div>
