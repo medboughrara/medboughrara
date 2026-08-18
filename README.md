@@ -24,21 +24,69 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 
 ---
 
-### 📊 Project Timeline & Interactive Hover Chart
+### 📊 Interactive Project Timeline & Weekly Breakdown
 
 <div align="center">
 
-![Interactive Project Timeline](assets/project_timeline_interactive.svg)
+![Project Timeline Overview](assets/project_timeline.png)
 
-*💡 **Hover your mouse over any bar square above to see exact project breakdown details in real-time!***
+</div>
 
 <br/>
 
-![Public Repositories](https://img.shields.io/badge/Public%20Repositories-50%2B-4338ca?style=for-the-badge&logo=github)
-![Primary Focus](https://img.shields.io/badge/Domain-AI%20%26%20Robotics%20%2F%20Embedded-1e1b4b?style=for-the-badge&logo=microchip)
-![Status](https://img.shields.io/badge/Status-Building%20@%20Qomics-059669?style=for-the-badge&logo=rocket)
+<details open>
+<summary><b>🗓️ Jul 13 - Jul 19 Breakdown (Total: 14h 39m) — <i>Click to expand / collapse</i></b></summary>
 
-</div>
+| Project | Time Spent | Visual Ratio | Focus Area |
+| :--- | :--- | :--- | :--- |
+| 💗 **smart_scan** | **7h 21m** | `████████████████████` (50%) | Autofocus Hill-Climbing & Motor Calibration |
+| 🔵 **SmartCytoScan** | **7h 07m** | `███████████████████░` (48%) | Cytology AI & FastAPI Architecture |
+| 🟢 **micro_gpu** | **11m** | `█░░░░░░░░░░░░░░░░░░░` (2%) | Edge AI GPU Benchmarks |
+
+</details>
+
+<details>
+<summary><b>🗓️ Aug 10 - Aug 16 Breakdown (Total: 11h 25m) — <i>Click to expand / collapse</i></b></summary>
+
+| Project | Time Spent | Visual Ratio | Focus Area |
+| :--- | :--- | :--- | :--- |
+| 💗 **smart_scan** | **5h 30m** | `████████████████████` (48%) | Motor Pulse Engine & Safety Bounds |
+| 🔵 **SmartCytoScan** | **3h 40m** | `█████████████░░░░░░░` (32%) | Real-Time Cell Segmentation Pipeline |
+| 🟢 **micro_gpu** | **2h 15m** | `████████░░░░░░░░░░░░` (20%) | TensorRT & ONNX Optimization |
+
+</details>
+
+<details>
+<summary><b>🗓️ Aug 3 - Aug 9 Breakdown (Total: 10h 30m) — <i>Click to expand / collapse</i></b></summary>
+
+| Project | Time Spent | Visual Ratio | Focus Area |
+| :--- | :--- | :--- | :--- |
+| 🟠 **QVision_PCB** | **6h 45m** | `████████████████████` (64%) | Multi-Layer PCB KiCad Layout |
+| 💗 **smart_scan** | **2h 10m** | `████████░░░░░░░░░░░░` (21%) | RS485 Communication Controller |
+| 🔵 **SmartCytoScan** | **1h 35m** | `██████░░░░░░░░░░░░░░` (15%) | Diagnostic Reporting Pipeline |
+
+</details>
+
+<details>
+<summary><b>🗓️ Jul 6 - Jul 12 Breakdown (Total: 14h 50m) — <i>Click to expand / collapse</i></b></summary>
+
+| Project | Time Spent | Visual Ratio | Focus Area |
+| :--- | :--- | :--- | :--- |
+| 💗 **smart_scan** | **8h 00m** | `████████████████████` (54%) | Stepper Motion Acceleration |
+| 🔵 **SmartCytoScan** | **6h 50m** | `█████████████████░░░` (46%) | Microscopy UI Integration |
+
+</details>
+
+<details>
+<summary><b>🗓️ Jun 29 - Jul 5 Breakdown (Total: 8h 10m) — <i>Click to expand / collapse</i></b></summary>
+
+| Project | Time Spent | Visual Ratio | Focus Area |
+| :--- | :--- | :--- | :--- |
+| 💗 **smart_scan** | **4h 50m** | `████████████████████` (59%) | Focus Evaluation Metric Tuning |
+| 🔵 **SmartCytoScan** | **2h 45m** | `███████████░░░░░░░░░` (34%) | Database Schema & Auth Setup |
+| 🟢 **micro_gpu** | **35m** | `██░░░░░░░░░░░░░░░░░░` (7%) | System Environment Profiling |
+
+</details>
 
 ---
 
