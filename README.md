@@ -23,21 +23,36 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 
 ---
 
+### 🏆 GitHub Trophies & Contributions
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=medboughrara&theme=tokyonight&no-bg=true&no-frame=true&column=6)
+
+</div>
+
+---
+
 ### 📈 GitHub Activity & Coding Charts
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=medboughrara&theme=tokyonight&area=true&hide_border=true)
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=medboughrara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medboughrara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+<a href="https://github.com/medboughrara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=medboughrara&show_icons=true&theme=tokyonight&hide_border=true" alt="Mouhamed's GitHub Stats" />
+</a>
+<a href="https://github.com/medboughrara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medboughrara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=medboughrara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=medboughrara&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats Chart" width="48%"/>
+<a href="https://github.com/medboughrara">
+  <img align="center" src="https://streak-stats.demolab.com/?user=medboughrara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
