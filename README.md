@@ -52,6 +52,16 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 ### ⏱️ Automated WakaTime / Hackatime Time Tracking
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 11 August 2026 - To: 18 August 2026
+
+Other    39 mins               ████████░░░░░░░░░░░░░░░░░   31.39 %
+JSON     33 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.77 %
+INI      27 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
+Python   25 mins               █████░░░░░░░░░░░░░░░░░░░░   20.11 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
