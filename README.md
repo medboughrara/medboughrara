@@ -54,7 +54,7 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2026 - To: 18 August 2026
+From: 12 August 2026 - To: 19 August 2026
 
 Other    39 mins               ████████░░░░░░░░░░░░░░░░░   31.39 %
 JSON     33 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.77 %
