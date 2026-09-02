@@ -54,13 +54,13 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2026 - To: 30 August 2026
+From: 24 August 2026 - To: 31 August 2026
 
-Python       7 hrs 8 mins          █████████▒░░░░░░░░░░░░░░░   37.54 %
-C++          4 hrs 30 mins         ██████░░░░░░░░░░░░░░░░░░░   23.73 %
-Other        2 hrs 36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-Markdown     1 hr 28 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-JSON         48 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Python          6 hrs 55 mins         ████████░░░░░░░░░░░░░░░░░   32.49 %
+C++             4 hrs 16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.08 %
+Other           2 hrs 25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+C#              1 hr 56 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+JSON            1 hr 25 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
 ```
 
 <!--END_SECTION:waka-->
