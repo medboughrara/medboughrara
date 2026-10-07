@@ -54,7 +54,7 @@ I specialize in **hardware-software co-design**, bridging the gap between embedd
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2026 - To: 05 October 2026
+From: 29 September 2026 - To: 06 October 2026
 
 No activity tracked
 ```
